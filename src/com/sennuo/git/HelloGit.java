@@ -1,4 +1,4 @@
-package com.atguigu.git;
+package com.sennuo.git;
 
 public class HelloGit {
 
